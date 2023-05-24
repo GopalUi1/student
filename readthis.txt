@@ -1,0 +1,11 @@
+	
+
+
+	data base name	= test
+	username	=admin
+	password	=""(embty)
+
+
+	=>>insert the database
+
+	=>>first run the "select.php" file
